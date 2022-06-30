@@ -1,7 +1,7 @@
 # Movie-Review-Classification
 
 Sentiment Analysis problem using Neural Network.
--IMDB dataset which has 50000 reviews.
+- IMDB dataset which has 50000 reviews.
 - output positive or negative.
 - hence a Binary Classification problem.
 
@@ -11,7 +11,7 @@ Sentiment Analysis problem using Neural Network.
 
 2. Vectorize the data
 - Vocab size is fixed to 10000
-- Each input review converted into vector of length 100000
+- Each input review converted into vector of length 10000
 
 3. Defining the Model Architecture
 - RELU ACTIVATION
